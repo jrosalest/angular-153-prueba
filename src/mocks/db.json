@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 100,
+      "name": "Jimy",
+      "lastname": "Rosales",
+      "email": "jim.estibens@gmail.com",
+      "phone": "777777",
+      "sexo": "M"
+    },
+    {
+      "id": 101,
+      "name": "Jose",
+      "lastname": "Aguirre",
+      "email": "jose.aguirre@gmail.com",
+      "phone": 958585855,
+      "sexo": "F"
+    },
+    {
+      "id": 102,
+      "name": "Juana",
+      "lastname": "Perez",
+      "email": "Juana.Peres@gmail.com",
+      "phone": 978493542,
+      "sexo": "F"
+    },
+    {
+      "name": "aaaa",
+      "lastname": "aaaaa",
+      "email": "aaaaaaaaaaaa",
+      "phone": "1111111",
+      "sexo": "F",
+      "id": 105
+    },
+    {
+      "name": "bbbbbbbbbbb",
+      "lastname": "bbbbbbbbbbb",
+      "email": "bbbbbbbbbbbb",
+      "phone": "453453453",
+      "sexo": "F",
+      "id": 106
+    }
+  ]
+}
